@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-image: url(img/pirate.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;  
+    background-position: center; 
+    background-size: initial;
+}
+.container{
+    padding-top: 20px;
+}
